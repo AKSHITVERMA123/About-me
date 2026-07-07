@@ -12,16 +12,16 @@ About-me / ReadME.md
 
 ✈️ Traveling | 🤝 Networking
 
-🚀 Tech Stack
+# 🚀 Tech Stack
 
 HTML5 CSS3 JavaScript React.js Node.js Express.js Java Spring Boot MongoDB MySQL Git VS Code Postman
 
-📌 Current Focus
+# 📌 Current Focus
 
 ✅ Mastering Data Structures & Algorithms
-✅ Learning Next.js and PostgreSQL
+✅ Learning Next.js, SSR, PostgreSQL
 ✅ Building Scalable MERN Stack Projects
 
-✨ Fun Fact
+# ✨ Fun Fact
 
 "**I believe consistantly learning, keep building and developing new projects and keep growing 🚀**"
