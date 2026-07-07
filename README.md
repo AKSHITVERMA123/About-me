@@ -1,4 +1,4 @@
-About-me / ReadME.md
+ReadME.md
 
 # Hi 👋, I'm Akshit Verma
 
