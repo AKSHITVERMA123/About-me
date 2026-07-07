@@ -14,7 +14,8 @@ ReadME.md
 
 ## 🚀 Tech Stack
 
-HTML5 CSS3 JavaScript React.js Node.js Express.js Java Spring Boot MongoDB MySQL Git VS Code Postman
+HTML5 CSS3 JavaScript React.js Node.js Express.js <img width="59" height="20" alt="17834502121626408962302459150044" src="https://github.com/user-attachments/assets/f1fa79d0-631e-42d5-9c9d-9369aa888384" />
+Java Spring Boot MongoDB MySQL Git VS Code Postman
 
 ## 📌 Current Focus
 
