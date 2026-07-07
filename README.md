@@ -6,9 +6,12 @@ About-me / ReadME.md
 
 # 💫 About Me
 🌱 Currently learning and applying new tech stacks to built end-to-end Full-Stack applications
+
 💻 Passionate about Full Stack Development (MERN Stack)
+
 ⚡ Enthusiastic real-world Problem Solver
-🔍 Adaptable, motivated, learner and growable person
+
+🔍 Adaptable, motivated learner and growable person
 
 ✈️ Traveling | 🤝 Networking
 
@@ -17,8 +20,11 @@ About-me / ReadME.md
 HTML5 CSS3 JavaScript React.js Node.js Express.js Java Spring Boot MongoDB MySQL Git VS Code Postman
 
 📌 Current Focus
+
 ✅ Mastering Data Structures & Algorithms
+
 ✅ Learning Next.js and PostgreSQL
+
 ✅ Building Scalable MERN Stack Projects
 
 ✨ Fun Fact
