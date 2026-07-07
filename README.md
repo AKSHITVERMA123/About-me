@@ -14,7 +14,8 @@ ReadME.md
 
 ## 🚀 Tech Stack
 
-HTML5 CSS3 JavaScript <img width="86" height="28" alt="17834509968372641874666889249292" src="https://github.com/user-attachments/assets/56e5a738-35af-4d73-bfa8-59a6fc69abe7" /> <img width="86" height="28" alt="17834509968372641874666889249292" src="https://github.com/user-attachments/assets/34540663-a4dd-4f0c-887b-0da82b0f38c1" />
+HTML5 CSS3 JavaScript <img width="86" height="28" alt="17834509968372641874666889249292" src="https://github.com/user-attachments/assets/56e5a738-35af-4d73-bfa8-59a6fc69abe7" />
+<img width="101" height="28" alt="17834513718273101504281308591656" src="https://github.com/user-attachments/assets/776db8c4-cb24-4a2c-8b8b-f1010ff00a2e" />
 
 Node.js Express.js Java Spring Boot MongoDB MySQL Git VS Code Postman
 
