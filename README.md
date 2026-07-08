@@ -12,12 +12,12 @@ ReadME.md
 ## 💫 About Me
 🌱 Currently learning and applying new tech stacks to built end-to-end Full-Stack applications 
 💻 Passionate about Full Stack Development (MERN Stack) 
-⚡ Enthusiastic real-world Problem Solver 
+⚡ Enthusiastic real-world Problem Solver using code
+🌟 Enthusiastic Competitive Programmer
 🔍 Adaptable, motivated learner and growable person
-
 ✈️ Traveling | 🤝 Networking
 
-## 🚀 Tech Stack
+## ❇ Tech Stack
 
 <img width="40" height="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px">
 <img width="127" height="30" alt="17834514506484118810364088149943" src="https://github.com/user-attachments/assets/4ba40987-a8a8-48be-ab51-ef50530cc8cf" />
@@ -34,9 +34,10 @@ ReadME.md
 
 ## 📌 Current Focus
 
-✅ Mastering Data Structures & Algorithms
-✅ Learning Next.js, SSR, PostgreSQL    
-✅ Building Scalable MERN Stack Projects
+* ✅ Mastering Data Structures & Algorithms
+
+* ✅ Learning Next.js, SSR, PostgreSQL    
+* ✅ Building Scalable MERN Stack Projects
 
 ## ✨ Fun Fact
 
