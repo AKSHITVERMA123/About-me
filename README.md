@@ -24,7 +24,11 @@ ReadME.md
  
 <img width="101" height="28" alt="17834513718273101504281308591656" src="https://github.com/user-attachments/assets/776db8c4-cb24-4a2c-8b8b-f1010ff00a2e" />
 
-Node.js Express.js Java Spring Boot MongoDB MySQL Git VS Code Postman
+Node.js Express.js <img width="53" height="20" alt="image" src="https://github.com/user-attachments/assets/b7e96442-ffdc-4aab-86c9-282b91f8df0a" />
+<img width="93" height="20" alt="image" src="https://github.com/user-attachments/assets/5c422724-56b1-47df-a728-a255d2371dc1" />
+<img width="81" height="20" alt="image" src="https://github.com/user-attachments/assets/10e0cf40-54aa-43c3-b29b-2e3591f75f2b" />
+<img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/df18907a-45db-49c7-83cc-2b60320f4365" />
+Git VS Code Postman
 
 ## 📌 Current Focus
 
